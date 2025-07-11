@@ -1,0 +1,19 @@
+# Python / Jupyter .gitignore 
+# Ignore virtual environments
+MARITAL_STATUS_ENV/
+venv/
+ENV/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files
+*.dll
+*.pkl
+*.h5
+*.pt
+
+# Ignore OS-specific files
+__pycache__/
+.DS_Store
+Thumbs.db

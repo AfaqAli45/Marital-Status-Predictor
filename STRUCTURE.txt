@@ -1,0 +1,9 @@
+# 📁 Directory structure will be like:
+# project_folder/
+# ├── inges.py
+# ├── Trainer.py
+# ├── Validator.py
+# ├── Logger.py
+# ├── main.py
+# ├── mlruns/ (auto)
+# └── constants.py (optional)
